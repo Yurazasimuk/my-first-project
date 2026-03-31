@@ -14,5 +14,4 @@ MERO
 
 ### 1. Клонування репозиторію
 ```bash
-git clone https://github.com/MEROCLOTHES.git
-cd REPO
+Your site is live at https://yurazasimuk.github.io/my-first-project/
